@@ -20,4 +20,4 @@ Let's enjoy the game!
 A new deck has been initialized
 Lets play for 5 players. Players are numbered from 0 to 4.
 Current Scores are:  [ 8, 11, 16, 13, 14 ]
-And the winner is player:  2 ```
+And the winner is player:  2
